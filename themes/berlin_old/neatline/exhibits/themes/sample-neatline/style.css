@@ -1,0 +1,47 @@
+/*
+* Stylesheet for Lancaster Avenue Project 
+* Organization: Haverford Digital Scholarship
+* Author: Caleb Eckert
+* Year: 2014
+*/
+
+
+/********************
+** GENERAL
+********************/
+
+#neatline {
+
+}
+
+
+/********************
+** STATIC PRESENTERS
+********************/
+
+.bubble.static {
+  width: 320px;
+}
+
+.bubble.static.title {
+}
+
+.bubble .content.body {
+  font-size: 14px;
+}
+
+.bubble.static.title {}
+
+
+/********************
+** WAYPOINTS
+********************/
+
+#waypoints {
+  max-width: 200px;
+  right: 0;
+  top: 10px;
+}
+
+
+

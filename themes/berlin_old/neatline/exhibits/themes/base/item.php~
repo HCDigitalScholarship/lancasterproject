@@ -1,0 +1,8 @@
+<!-- Title. -->
+
+ 
+<?php if (metadata('item', 'has Item Type Metadata')): ?>
+  <h3><?php echo __('Item Type Metadata'); ?></h3>
+  <?php echo files_for_item(); ?>
+<?php endif; ?>
+
